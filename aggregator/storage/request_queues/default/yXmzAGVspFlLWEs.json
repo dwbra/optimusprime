@@ -1,0 +1,9 @@
+{
+	"id": "yXmzAGVspFlLWEs",
+	"json": "{\"id\":\"yXmzAGVspFlLWEs\",\"url\":\"https://pursuit.unimelb.edu.au/under-the-microscope\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/under-the-microscope\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1706509259938,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/under-the-microscope",
+	"url": "https://pursuit.unimelb.edu.au/under-the-microscope"
+}

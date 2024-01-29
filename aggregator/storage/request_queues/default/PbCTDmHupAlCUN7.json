@@ -1,0 +1,9 @@
+{
+	"id": "PbCTDmHupAlCUN7",
+	"json": "{\"id\":\"PbCTDmHupAlCUN7\",\"url\":\"https://pursuit.unimelb.edu.au/go-figure\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/go-figure\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1706509259935,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/go-figure",
+	"url": "https://pursuit.unimelb.edu.au/go-figure"
+}

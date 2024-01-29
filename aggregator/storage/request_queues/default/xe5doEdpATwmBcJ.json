@@ -1,0 +1,9 @@
+{
+	"id": "xe5doEdpATwmBcJ",
+	"json": "{\"id\":\"xe5doEdpATwmBcJ\",\"url\":\"https://pursuit.unimelb.edu.au/education\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1706509259932,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/education",
+	"url": "https://pursuit.unimelb.edu.au/education"
+}

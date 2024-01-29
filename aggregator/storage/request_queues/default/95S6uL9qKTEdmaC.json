@@ -1,0 +1,9 @@
+{
+	"id": "95S6uL9qKTEdmaC",
+	"json": "{\"id\":\"95S6uL9qKTEdmaC\",\"url\":\"https://pursuit.unimelb.edu.au/\",\"loadedUrl\":\"https://pursuit.unimelb.edu.au/\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: requestHandler timed out after 60 seconds.\\n    at Timeout._onTimeout (/Users/dworkman/Coding/optimusPrime/node_modules/@apify/timeout/cjs/index.cjs:64:68)\\n    at listOnTimeout (node:internal/timers:573:17)\\n    at process.processTimers (node:internal/timers:514:7)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\",\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1706509320837,
+	"retryCount": 1,
+	"uniqueKey": "https://pursuit.unimelb.edu.au",
+	"url": "https://pursuit.unimelb.edu.au/"
+}

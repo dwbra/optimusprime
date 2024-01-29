@@ -1,0 +1,9 @@
+{
+	"id": "EH7vytzLkkuN8wI",
+	"json": "{\"id\":\"EH7vytzLkkuN8wI\",\"url\":\"https://pursuit.unimelb.edu.au/covid-19\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/covid-19\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1706509259931,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/covid-19",
+	"url": "https://pursuit.unimelb.edu.au/covid-19"
+}

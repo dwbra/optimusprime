@@ -1,0 +1,22 @@
+{
+  "name": "optimusprime",
+  "version": "1.0.0",
+  "description": "A web crawler/transformer (data aggregator) and an importer that handles inserting this data into various systems.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Workman",
+  "license": "ISC",
+  "volta": {
+    "node": "20.10.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  },
+  "dependencies": {
+    "crawlee": "^3.7.2",
+    "playwright": "^1.41.1"
+  }
+}

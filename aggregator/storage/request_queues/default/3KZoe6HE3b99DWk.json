@@ -1,0 +1,9 @@
+{
+	"id": "3KZoe6HE3b99DWk",
+	"json": "{\"id\":\"3KZoe6HE3b99DWk\",\"url\":\"https://pursuit.unimelb.edu.au/environment\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/environment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1706509259932,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/environment",
+	"url": "https://pursuit.unimelb.edu.au/environment"
+}

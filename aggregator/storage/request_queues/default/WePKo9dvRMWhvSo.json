@@ -1,0 +1,9 @@
+{
+	"id": "WePKo9dvRMWhvSo",
+	"json": "{\"id\":\"WePKo9dvRMWhvSo\",\"url\":\"https://pursuit.unimelb.edu.au/humanities\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/humanities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1706509259928,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/humanities",
+	"url": "https://pursuit.unimelb.edu.au/humanities"
+}
