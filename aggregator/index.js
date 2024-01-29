@@ -1,14 +1,6 @@
 import { PlaywrightCrawler } from 'crawlee';
 import shouldBlockRequest from './helpers/shouldBlockRequest.js';
 
-/* Data Structure
-[
-  {heading: "h1"},
-  {thumbnail: ".specialImage img"},
-  {content: ".content-div"}
-]
-*/
-
 /**
  *
  * @param {String} primaryUrl The url to initialise the crawl with.
