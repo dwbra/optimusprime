@@ -1,9 +1,0 @@
-{
-	"id": "mjAjz5Of4ixqDzd",
-	"json": "{\"id\":\"mjAjz5Of4ixqDzd\",\"url\":\"https://pursuit.unimelb.edu.au/the-policy-shop\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/the-policy-shop\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1710893070939,
-	"retryCount": 0,
-	"uniqueKey": "https://pursuit.unimelb.edu.au/the-policy-shop",
-	"url": "https://pursuit.unimelb.edu.au/the-policy-shop"
-}

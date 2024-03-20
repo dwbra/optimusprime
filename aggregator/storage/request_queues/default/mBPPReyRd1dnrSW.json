@@ -1,9 +1,0 @@
-{
-	"id": "mBPPReyRd1dnrSW",
-	"json": "{\"id\":\"mBPPReyRd1dnrSW\",\"url\":\"https://pursuit.unimelb.edu.au/topics/culture\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/topics/culture\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1710893073351,
-	"retryCount": 0,
-	"uniqueKey": "https://pursuit.unimelb.edu.au/topics/culture",
-	"url": "https://pursuit.unimelb.edu.au/topics/culture"
-}
