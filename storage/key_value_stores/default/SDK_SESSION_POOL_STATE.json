@@ -1,0 +1,252 @@
+{
+  "usableSessionsCount": 8,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_t2kE8HUEag",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:49.849Z",
+      "createdAt": "2024-03-20T02:15:49.849Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_3GMV2ib75b",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "_mercury_session",
+            "value": "80e52cfb751015d1ffe6aa78d7c2e31e",
+            "expires": "2024-03-20T03:05:54.144Z",
+            "domain": "pursuit.unimelb.edu.au",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.146Z",
+            "lastAccessed": "2024-03-20T02:16:01.556Z"
+          },
+          {
+            "key": "previousPageUrl",
+            "value": "https://pursuit.unimelb.edu.au/humanities",
+            "expires": "2024-03-20T03:06:01.556Z",
+            "domain": "unimelb.edu.au",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.147Z",
+            "lastAccessed": "2024-03-20T02:16:01.561Z"
+          },
+          {
+            "key": "campaign_name",
+            "expires": "2024-03-20T03:05:54.144Z",
+            "domain": "unimelb.edu.au",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.151Z",
+            "lastAccessed": "2024-03-20T02:16:01.559Z"
+          },
+          {
+            "key": "global_segmentation_cookie",
+            "value": "global_targeted_segment",
+            "expires": "2025-04-24T02:15:52.911Z",
+            "domain": "pursuit.unimelb.edu.au",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.153Z",
+            "lastAccessed": "2024-03-20T02:16:01.559Z"
+          },
+          {
+            "key": "traffic_source",
+            "value": "(none)",
+            "expires": "2024-03-20T02:30:53.000Z",
+            "domain": "unimelb.edu.au",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.154Z",
+            "lastAccessed": "2024-03-20T02:16:01.560Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.3.1856223191.1710900953",
+            "expires": "2025-04-24T02:15:53.175Z",
+            "domain": "unimelb.edu.au",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.155Z",
+            "lastAccessed": "2024-03-20T02:16:01.560Z"
+          },
+          {
+            "key": "_gid",
+            "value": "GA1.3.1007389003.1710900953",
+            "expires": "2024-03-21T02:15:53.000Z",
+            "domain": "unimelb.edu.au",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.155Z",
+            "lastAccessed": "2024-03-20T02:16:01.560Z"
+          },
+          {
+            "key": "utag_main",
+            "value": "v_id:018e59a4bf51001ee4d209e3822a00075005e06d00942$_sn:1$_se:17$_ss:0$_st:1710902760963$ses_id:1710900952914%3Bexp-session$_pn:7%3Bexp-session",
+            "expires": "2025-03-20T02:16:00.000Z",
+            "domain": "unimelb.edu.au",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-03-20T02:15:54.156Z",
+            "lastAccessed": "2024-03-20T02:16:01.562Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:49.851Z",
+      "createdAt": "2024-03-20T02:15:49.851Z",
+      "usageCount": 12,
+      "maxUsageCount": 50,
+      "errorScore": 2
+    },
+    {
+      "id": "session_piRlWRfBKF",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:54.253Z",
+      "createdAt": "2024-03-20T02:15:54.253Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_QNoLMe5jvg",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:54.254Z",
+      "createdAt": "2024-03-20T02:15:54.254Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_9H3GTx67fH",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:56.464Z",
+      "createdAt": "2024-03-20T02:15:56.464Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_mbSYMaLx5z",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:58.164Z",
+      "createdAt": "2024-03-20T02:15:58.164Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_mnCzQpapOF",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:59.659Z",
+      "createdAt": "2024-03-20T02:15:59.659Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_hxeSHwws0Q",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-03-20T03:05:59.871Z",
+      "createdAt": "2024-03-20T02:15:59.871Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

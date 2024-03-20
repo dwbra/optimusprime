@@ -1,0 +1,9 @@
+{
+	"id": "MUxIvmiBQHmmPpd",
+	"json": "{\"id\":\"MUxIvmiBQHmmPpd\",\"url\":\"https://pursuit.unimelb.edu.au/politics-society\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/politics-society\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1710900954240,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/politics-society",
+	"url": "https://pursuit.unimelb.edu.au/politics-society"
+}

@@ -1,9 +1,0 @@
-{
-	"id": "6ZBNh06WQ4wOnxw",
-	"json": "{\"id\":\"6ZBNh06WQ4wOnxw\",\"url\":\"https://pursuit.unimelb.edu.au/articles/russia-s-meddling-in-the-french-elections-how-and-why\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/articles/russia-s-meddling-in-the-french-elections-how-and-why\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
-	"method": "GET",
-	"orderNo": 1706509263244,
-	"retryCount": 0,
-	"uniqueKey": "https://pursuit.unimelb.edu.au/articles/russia-s-meddling-in-the-french-elections-how-and-why",
-	"url": "https://pursuit.unimelb.edu.au/articles/russia-s-meddling-in-the-french-elections-how-and-why"
-}

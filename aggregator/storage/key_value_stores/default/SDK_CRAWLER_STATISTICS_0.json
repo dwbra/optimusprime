@@ -3,26 +3,26 @@
   "requestsFailed": 0,
   "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 5,
-  "requestMinDurationMillis": 651,
-  "requestMaxDurationMillis": 3055,
+  "requestsFinishedPerMinute": 4,
+  "requestMinDurationMillis": 1453,
+  "requestMaxDurationMillis": 5573,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 6338,
-  "crawlerStartedAt": "2024-01-29T06:20:56.851Z",
-  "crawlerFinishedAt": "2024-01-29T06:22:00.965Z",
-  "statsPersistedAt": "2024-01-29T06:22:00.965Z",
-  "crawlerRuntimeMillis": 64134,
-  "crawlerLastStartTimestamp": 1706509256831,
+  "requestTotalFinishedDurationMillis": 17341,
+  "crawlerStartedAt": "2024-03-20T00:04:25.331Z",
+  "crawlerFinishedAt": "2024-03-20T00:05:40.119Z",
+  "statsPersistedAt": "2024-03-20T00:05:40.119Z",
+  "crawlerRuntimeMillis": 74808,
+  "crawlerLastStartTimestamp": 1710893065311,
   "requestRetryHistogram": [
     5
   ],
   "statsId": 0,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 1268,
-  "requestTotalDurationMillis": 6338,
+  "requestAvgFinishedDurationMillis": 3468,
+  "requestTotalDurationMillis": 17341,
   "requestsTotal": 5,
   "requestsWithStatusCode": {
-    "200": 6
+    "200": 7
   },
   "errors": {},
   "retryErrors": {
@@ -30,7 +30,7 @@
       "missing error code": {
         "Error": {
           "requestHandler timed out after 60 seconds.": {
-            "count": 1
+            "count": 2
           }
         }
       }

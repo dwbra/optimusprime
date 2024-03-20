@@ -1,0 +1,9 @@
+{
+	"id": "bNQlwmN0m3j79dv",
+	"json": "{\"id\":\"bNQlwmN0m3j79dv\",\"url\":\"https://pursuit.unimelb.edu.au/articles/putting-museum-power-on-the-map\",\"loadedUrl\":\"https://pursuit.unimelb.edu.au/articles/putting-museum-power-on-the-map\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/articles/putting-museum-power-on-the-map\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-03-20T02:15:56.460Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/articles/putting-museum-power-on-the-map",
+	"url": "https://pursuit.unimelb.edu.au/articles/putting-museum-power-on-the-map"
+}

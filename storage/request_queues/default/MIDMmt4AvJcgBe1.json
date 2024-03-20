@@ -1,0 +1,9 @@
+{
+	"id": "MIDMmt4AvJcgBe1",
+	"json": "{\"id\":\"MIDMmt4AvJcgBe1\",\"url\":\"https://pursuit.unimelb.edu.au/articles/how-plague-helped-make-rome-a-superpower\",\"uniqueKey\":\"https://pursuit.unimelb.edu.au/articles/how-plague-helped-make-rome-a-superpower\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1710900958159,
+	"retryCount": 0,
+	"uniqueKey": "https://pursuit.unimelb.edu.au/articles/how-plague-helped-make-rome-a-superpower",
+	"url": "https://pursuit.unimelb.edu.au/articles/how-plague-helped-make-rome-a-superpower"
+}

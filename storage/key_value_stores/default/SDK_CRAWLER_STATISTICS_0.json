@@ -1,0 +1,39 @@
+{
+  "requestsFinished": 5,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 4,
+  "requestMinDurationMillis": 1492,
+  "requestMaxDurationMillis": 4398,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 11740,
+  "crawlerStartedAt": "2024-03-20T02:15:49.815Z",
+  "crawlerFinishedAt": "2024-03-20T02:17:01.636Z",
+  "statsPersistedAt": "2024-03-20T02:17:01.636Z",
+  "crawlerRuntimeMillis": 71835,
+  "crawlerLastStartTimestamp": 1710900949801,
+  "requestRetryHistogram": [
+    5
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 2348,
+  "requestTotalDurationMillis": 11740,
+  "requestsTotal": 5,
+  "requestsWithStatusCode": {
+    "200": 7
+  },
+  "errors": {},
+  "retryErrors": {
+    "/Users/dworkman/Coding/optimusPrime/node_modules/@apify/timeout/cjs/index.cjs:64:68": {
+      "missing error code": {
+        "Error": {
+          "requestHandler timed out after 60 seconds.": {
+            "count": 2
+          }
+        }
+      }
+    }
+  }
+}
